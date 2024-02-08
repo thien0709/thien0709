@@ -1,6 +1,6 @@
 <div align="center">
     <h1>👋Welcome to my Github!👋</h1>
-    <img src='https://quotes-github-readme.vercel.app/api?theme='nord&'?type='horizontal'/>
+    <img src='https://quotes-github-readme.vercel.app/api?type='horizontal'&&?theme='nord&'/>
 </div>
 
 <div>
