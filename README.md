@@ -4,10 +4,10 @@
 </div>
 
 <div>
-    <p>🧑Gender:Male</p>
-    <p>🎒Studying Computer Science at HCM Open University</p>
-    <p>🧑‍💻Frontend and Android Developer</p>
-    <p>✅Missions:</p>
+    <p>🧑 Gender:Male</p>
+    <p>🎒 Studying Computer Science at HCM Open University</p>
+    <p>🧑‍💻 Frontend and Android Developer</p>
+    <p>✅ Missions:</p>
     <ul>
         <li>Learning IT, CS and Android Development (ongoing)</li>
         <li>Complete NIIS application, a programming learning application</li>
