@@ -1,28 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Xuan Thien
-================================================================================================================================
+<div align="center">
+    <h1>👋Welcome to my Github!👋</h1>
+    <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'/>
+</div>
 
-* 🌍  I'm based in Vietnamese.
-* ✉️  You can contact me at [thien070904@gmail.com](mailto:thien070904@gmail.com)
-<a href="https://www.github.com/thien0709" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thien0709?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<div>
+    <p>🧑Gender:Male</p>
+    <p>🎒Studying Computer Science at HCM Open University</p>
+    <p>🧑‍💻Frontend and Game Developer</p>
+    <p>✅Missions:</p>
+    <ul>
+        <li>Learning IT, CS and Game Development (ongoing)</li>
+        <li>Create an indie game before 2023 (near future)</li>
+        <li>Join a game company in the future and create AAA games (dream and ambition)</li>
+    </ul>
+</div>
 
-### SKILLS
+# 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thien070904) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thien_070904/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
+
+# 💻Tech Stack
+## Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Frameworks and Libraries
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+# 📈My stats
+
+<div>
+    <img src='https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" height="175em" />
+</div>
+
+<br/>
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-</p>
-
-
-### SOCIALS
-
-<p align="left"> <a href="https://www.facebook.com/thien070904" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/thien0709" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### BADGES
-
-<a href="http://www.github.com/thien0709"><img src="https://github-readme-stats.vercel.app/api?username=thien0709&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="leho-dev's GitHub stats" /></a>
-
-<a href="http://www.github.com/thien0709"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thien0709&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-![](https://github.com/thien0709/thien0709/raw/output/dist/github-snake.svg)
-
+![Image](projects.png "project")
