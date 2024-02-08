@@ -1,17 +1,17 @@
 <div align="center">
     <h1>👋Welcome to my Github!👋</h1>
-    <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight'/>
+    <img src='https://quotes-github-readme.vercel.app/api?quote=If not now, when?&theme=tokyonight'/>
 </div>
 
 <div>
     <p>🧑Gender:Male</p>
     <p>🎒Studying Computer Science at HCM Open University</p>
-    <p>🧑‍💻Frontend and Game Developer</p>
+    <p>🧑‍💻Frontend and Android Developer</p>
     <p>✅Missions:</p>
     <ul>
-        <li>Learning IT, CS and Game Development (ongoing)</li>
-        <li>Create an indie game before 2023 (near future)</li>
-        <li>Join a game company in the future and create AAA games (dream and ambition)</li>
+        <li>Learning IT, CS and Android Development (ongoing)</li>
+        <li>Complete NIIS application, a programming learning application</li>
+        <li>Complete the website to support learning methods(near future)</li>
     </ul>
 </div>
 
