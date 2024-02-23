@@ -24,7 +24,7 @@
 # 💻 Tech Stack
 ## Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,java,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,java" /><br>
 </div>
 
 ## Other Skill
