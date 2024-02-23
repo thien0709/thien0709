@@ -29,7 +29,7 @@
 
 ## Other Skill
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,git,nvim" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,git,neovim" />
     <br>
 </div>
 
@@ -41,13 +41,5 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/thien0709/thien0709/blob/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 ![Image](projects.png "project")
