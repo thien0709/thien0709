@@ -35,11 +35,16 @@
 
 # 📈 My stats
 
-<div>
+<div align = "center">
     <img src='https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" height="175em" />
 </div>
 
-<br/>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/thien0709/thien0709/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ![Image](projects.png "project")
