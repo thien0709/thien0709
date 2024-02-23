@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Xuan+Thien!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Xuan+Thien!;" />
 </h1>
     <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord'/>
 </div>
@@ -23,9 +23,16 @@
 
 # 💻 Tech Stack
 ## Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=FF0000) 
-## Frameworks and Libraries
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c++,javascript,java,dart" /><br>
+</div>
+
+## Other Skill
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,git,nvim" />
+    <br>
+</div>
+
 # 📈 My stats
 
 <div>
@@ -35,5 +42,12 @@
 
 <br/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/thien0709/thien0709/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ![Image](projects.png "project")
