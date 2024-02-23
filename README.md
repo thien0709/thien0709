@@ -24,12 +24,12 @@
 # 💻 Tech Stack
 ## Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cplusplus,javascript,java,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,java,dart" /><br>
 </div>
 
 ## Other Skill
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,git,neovim" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,git,neovim,arch,linux" />
     <br>
 </div>
 
