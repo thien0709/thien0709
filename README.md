@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    <p>🧑 Gender:Male</p>
+    <p>🧑 Gender: Male</p>
     <p>🎒 Studying Computer Science at HCM Open University</p>
     <p>🧑‍💻 Frontend and Android Developer</p>
     <p>✅ Missions:</p>
