@@ -12,7 +12,7 @@
     <p>🧑‍💻 Frontend and Android Developer</p>
     <p>✅ Missions:</p>
     <ul>
-        <li>Learning IT, CS and Android Development (ongoing)</li>
+        <li>Learning CS and Android Development (ongoing)</li>
         <li>Complete NIIS application, a programming learning application</li>
         <li>Complete the website to support learning methods 2-1-2 and 1-0-0 (near future)</li>
     </ul>
