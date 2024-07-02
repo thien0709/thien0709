@@ -9,13 +9,13 @@
 <div>
     <p>🧑 Gender: Male</p>
     <p>🎒 Studying Computer Science at HCM Open University</p>
-    <p>🧑‍💻 Frontend and Android Developer</p>
+<!--     <p>🧑‍💻 Frontend and Android Developer</p>
     <p>✅ Missions:</p>
     <ul>
         <li>Learning CS and Android Development (ongoing)</li>
         <li>Complete NIIS application, a programming learning application</li>
         <li>Complete the website to support learning methods 2-1-2 and 1-0-0 (done)</li>
-    </ul>
+    </ul> -->
 </div>
 
 # 🌐 Socials
