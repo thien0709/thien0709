@@ -8,7 +8,7 @@
 
 <div>
     <p>🎒 Studying Computer Science at HCM Open University</p>
-<!--     <p>🧑‍💻 Frontend and Android Developer</p>
+<!--     <p>🧑‍💻 Android Developer</p>
     <p>✅ Missions:</p>
     <ul>
         <li>Learning CS and Android Development (ongoing)</li>
@@ -18,25 +18,61 @@
 </div>
 
 # 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/7hi3n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/7hi3rv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
+<p align="center">
+  <a href="https://www.facebook.com/7hi3n">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/7hi3rv/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:xuanthien0709@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 # 💻 Tech Stack
-## Languages
+
+### 🧠 Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=kotlin,javascript,java,cpp" /><br>
 </div>
 
-## Other Skill
+### 🧩 Frameworks & Libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,git,neovim,arch,linux" />
+  <img src="https://skillicons.dev/icons?i=react,jetpackcompose,spring,bootstrap" />
+</div>
+
+### 🧱 Architecture & Design Patterns
+- 🧭 **MVVM** (Model - View - ViewModel)
+- 🧮 **MVC** (Model - View - Controller)
+
+### 🛠️ Other Tools & Skills
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,neovim,arch,linux,aws,firebase,postman,mysql" />
     <br>
 </div>
 
-# 📈 My stats
+# 📈 My GitHub Stats
 
-<div align = "center">
-    <img src='https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight' height="175em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" height="175em" />
-</div>
+### 🧮 Contribution Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight" alt="GitHub Contribution Stats" />
+</p>
+
+### ⏱️ WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thien0709&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+</p>
+
+### 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=thien0709&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
 
 ![Image](projects.png "project")
