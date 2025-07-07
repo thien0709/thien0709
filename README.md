@@ -39,7 +39,7 @@
 
 ### 🧩 Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,jetpackcompose,spring,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,spring" />
 </div>
 
 ### 🧱 Architecture & Design Patterns
@@ -56,7 +56,7 @@
 
 ### 🧮 Contribution Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight" alt="GitHub Contribution Stats" />
+<img alt="thien0709's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thien0709&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><img alt="thien0709's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px">
 </p>
 
 ### ⏱️ WakaTime Stats
@@ -64,14 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thien0709&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
 </p>
 
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=thien0709&theme=tokyonight" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thien0709&amp;theme=tokyonight" alt="thien0709's GitHub stats">
 </p>
 
 
