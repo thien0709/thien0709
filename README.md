@@ -55,7 +55,7 @@
 # 📈 My GitHub Stats
 
 ### 🧮 Contribution Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Contribution Stats" height="192px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="192px" />
 </p>
