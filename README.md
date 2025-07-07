@@ -56,7 +56,8 @@
 
 ### 🧮 Contribution Stats
 <p align="center">
-<img alt="thien0709's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thien0709&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><img alt="thien0709's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px">
+  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Contribution Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="192px" />
 </p>
 
 ### ⏱️ WakaTime Stats
