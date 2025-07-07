@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Xuan+Thien!;" />
 </h1>
@@ -54,13 +54,13 @@
 # 📈 My GitHub Stats
 
 ### 🧮 Contribution Stats
-<p>
-  <img alt="thien0709's GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api/?username=thien0709&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-       height="192px" />
-  <img alt="thien0709's Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-       height="192px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight" alt="GitHub Contribution Stats" />
+</p>
+
+### 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### ⏱️ WakaTime Stats
