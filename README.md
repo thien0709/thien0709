@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Xuan+Thien!;" />
 </h1>
-    <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&layout=compact&theme=tokyonight&border=true&amp'/>
+    <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&layout=compact&theme=gruvbox&border=true&amp'/>
 </div>
 
 <div>
@@ -55,23 +55,27 @@
 
 ### 🧮 Contribution Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&theme=tokyonight" alt="GitHub Contribution Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&hide_border=true&bg_color=282828&title_color=fb4934&text_color=ebdbb2&icon_color=fe8019" alt="GitHub Contribution Stats" />
 </p>
+
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019" alt="Top Languages" />
 </p>
+
 
 ### ⏱️ WakaTime Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thien0709&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=83a598&text_color=ebdbb2&icon_color=fe8019" alt="WakaTime Stats" />
 </p>
+
 
 ### 🔥 Streak Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thien0709&amp;theme=tokyonight" alt="thien0709's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thien0709&hide_border=true&background=282828&currStreakLabel=fb4934&sideLabels=ebdbb2&sideNums=fe8019&dates=ebdbb2&ring=fb4934&fire=fe8019&currStreakNum=fb4934" alt="Streak Stats"/>
 </p>
+
 
 
 ![Image](projects.png "project")
