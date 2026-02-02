@@ -28,9 +28,9 @@ Full-Stack Developer • System Enthusiast • Linux User
 
 ### 👋 About Me
 
-🖥️ Systems & backend
-⌨️ Keyboard tinkerer
-🐧 Linux customizer
+- 🖥️ Systems & backend
+- ⌨️ Keyboard tinkerer
+- 🐧 Linux customizer
 
 <br clear="right"/>
 
