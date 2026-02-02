@@ -28,9 +28,9 @@ Full-Stack Developer • System Enthusiast • Linux User
 
 ### 👋 About Me
 
-- Full-stack developer focused on **backend systems** and **scalable web applications**  
-- Strong interest in **software architecture, performance, and system design**  
-- Enjoy exploring **low-level technologies** and reverse engineering  
+🖥️ Systems & backend
+⌨️ Keyboard tinkerer
+🐧 Linux customizer
 
 <br clear="right"/>
 
@@ -80,15 +80,29 @@ Full-Stack Developer • System Enthusiast • Linux User
 
 ---
 
-### 📈 GitHub Activity
+### 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&hide_border=true&bg_color=282828&title_color=fb4934&text_color=ebdbb2&icon_color=fe8019&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thien0709&hide_border=true&background=282828&currStreakLabel=fb4934&sideLabels=ebdbb2&sideNums=fe8019&dates=ebdbb2&ring=fb4934&fire=fe8019&currStreakNum=fb4934" height="165"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thien0709&show_icons=true&hide_border=true&bg_color=181717&title_color=ffffff&text_color=cccccc&icon_color=ffffff" height="160" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thien0709&hide_border=true&background=181717&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=cccccc&ring=ffffff&fire=ffffff&currStreakNum=ffffff" />
+### 🧠 Top Languages
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&cache_seconds=86400" />
+</p>
+
+---
+
+### ⏱️ WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=83a598&text_color=ebdbb2&icon_color=fe8019&cache_seconds=86400" />
+</p>
+
 
 ---
 
