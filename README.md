@@ -9,16 +9,10 @@ Full-Stack Developer • System Enthusiast • Linux User
 </samp>
 
 <br/><br/>
+[![Facebook](https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/7hi3n)
+[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7hi3rv/)
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thien070904@gmail.com)
 
-<a href="https://www.facebook.com/7hi3n">
-  <img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/7hi3rv/">
-  <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:thien070904@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 </div>
 
