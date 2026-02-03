@@ -56,8 +56,8 @@ Full-Stack Developer • Linux Enthusiast • Custom Keyboard Builder
 
 **Architecture & Design Patterns**
 
-<img src="https://img.shields.io/badge/MVVM-282828?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/MVC-282828?style=for-the-badge&logo=framework&logoColor=white" />
+<img src="https://img.shields.io/badge/MVVM-181717?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/MVC-181717?style=for-the-badge&logo=framework&logoColor=white" />
 
 <br/><br/>
 
@@ -107,7 +107,7 @@ Full-Stack Developer • Linux Enthusiast • Custom Keyboard Builder
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thien0709&label=PROFILE+VIEWS&color=181717&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thien0709&label=VISITORS&color=181717&style=for-the-badge" />
 </div>
 
 ---
