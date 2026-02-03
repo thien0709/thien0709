@@ -1,30 +1,31 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Xuan+Thien!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Sacramento&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Xuan+Thien! />
 </h1>
 
 <samp>
-Full-Stack Developer • System Enthusiast • Linux User
+Full-Stack Developer • Linux Enthusiast • Custom Keyboard Builder
 </samp>
 
+
 <br/><br/>
+
 [![Facebook](https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/7hi3n)
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7hi3rv/)
 [![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thien070904@gmail.com)
-
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=thien0709&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thien0709&count_private=true&show_icons=true&hide_border=true&bg_color=282828&title_color=fb4934&text_color=ebdbb2&icon_color=fe8019&include_all_commits=true" />
 
 ### 👋 About Me
 
-- 🖥️ Systems & backend
-- ⌨️ Keyboard tinkerer
-- 🐧 Linux customizer
+- Full-stack developer focused on **backend systems** and **scalable web applications**  
+- Strong interest in **software architecture, performance, and system design**  
+- Enjoy exploring **low-level technologies** and reverse engineering  
 
 <br clear="right"/>
 
@@ -53,6 +54,13 @@ Full-Stack Developer • System Enthusiast • Linux User
 
 <br/><br/>
 
+**Architecture & Design Patterns**
+
+<img src="https://img.shields.io/badge/MVVM-282828?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/MVC-282828?style=for-the-badge&logo=framework&logoColor=white" />
+
+<br/><br/>
+
 **Tools**
 
 <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
@@ -77,8 +85,7 @@ Full-Stack Developer • System Enthusiast • Linux User
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thien0709&include_all_commits=true&show_icons=true&hide_border=true&bg_color=282828&title_color=fb4934&text_color=ebdbb2&icon_color=fe8019&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thien0709&hide_border=true&background=282828&currStreakLabel=fb4934&sideLabels=ebdbb2&sideNums=fe8019&dates=ebdbb2&ring=fb4934&fire=fe8019&currStreakNum=fb4934" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thien0709&show_icons=true&hide_border=true&bg_color=282828&title_color=fb4934&text_color=ebdbb2&icon_color=fe8019" />
 </p>
 
 ---
@@ -86,7 +93,7 @@ Full-Stack Developer • System Enthusiast • Linux User
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019" />
 </p>
 
 ---
@@ -94,20 +101,17 @@ Full-Stack Developer • System Enthusiast • Linux User
 ### ⏱️ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=83a598&text_color=ebdbb2&icon_color=fe8019&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=thien0709&layout=compact&hide_border=true&bg_color=282828&title_color=83a598&text_color=ebdbb2&icon_color=fe8019" />
 </p>
-
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=thien0709&label=PROFILE+VIEWS&color=181717&style=for-the-badge" />
-
+  <img src="https://komarev.com/ghpvc/?username=thien0709&label=PROFILE+VIEWS&color=181717&style=for-the-badge" />
 </div>
 
 ---
 
 <div align="center">
-<img src="projects.png" width="100%" />
+  <img src="projects.png" width="100%" />
 </div>
