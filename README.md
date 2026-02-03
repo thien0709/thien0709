@@ -19,13 +19,13 @@ Full-Stack Developer • Linux Enthusiast • Custom Keyboard Builder
 
 ---
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thien0709&count_private=true&show_icons=true&hide_border=true&bg_color=282828&title_color=fb4934&text_color=ebdbb2&icon_color=fe8019&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=thien0709&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&include_all_commits=true" />
 
 ### 👋 About Me
 
-- Full-stack developer focused on **backend systems** and **scalable web applications**  
-- Strong interest in **software architecture, performance, and system design**  
-- Enjoy exploring **low-level technologies** and reverse engineering  
+- 🖥️ Systems & backend
+- ⌨️ Keyboard tinkerer
+- 🐧 Linux customizer
 
 <br clear="right"/>
 
